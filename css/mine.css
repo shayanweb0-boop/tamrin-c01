@@ -1,0 +1,15 @@
+header ul{
+    list-style: none;
+    margin: 0;
+}
+header a{
+    text-decoration: none;
+    color: inherit;
+}
+.slide{
+    background: url("../images/h1_hero1.jpg.webp");
+    background-size: cover;
+}
+.h-200{
+    height: 31rem;
+}
